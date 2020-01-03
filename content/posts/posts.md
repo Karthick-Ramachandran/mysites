@@ -4,9 +4,9 @@ description: "A year passed, Lot of struggles and a lot of learnings. Let me sha
 date: 2020-01-02
 ---
 
-I started this year (2019) with a lot of expectations in my mind, thinking about my career in programming, My English fluency, Thinking bad about the past (My college grades), and my relationship status.
+I started this year (2019) with a lot of expectations in my mind, thinking about my career in programming, My English fluency, Thinking bad about my past (My college grades), and my relationship status.
 
-It's really frustrating when you need to ask for money from your parents or friends regardless of working as a software developer. If you're not good enough in what you're doing, <b>You should quit</b>.
+It's really frustrating when you need to ask for money from your parents or friends regardless of working as a software developer. If don't think you're good enough in what you're doing, <b>You should quit and take some time to prepare</b>.
 
 The above point doesn't mean you need to be a prodigy at coding (that applies to all the fields), As long as you enjoy what you're doing, Push yourself to get better at what you're doing. <b>Never Give up</b>.
 
@@ -14,7 +14,7 @@ Not all the talented, Down to earth people need to start a company, Talented peo
 
 It's almost impossible to build a perfect B2B product without good industry experience.
 
-Freelancing in web and mobile app development is already ruined.
+Freelancing in web and mobile app development was already ruined.
 
 If you want yourself to look like a better developer than others, You have two options
 
