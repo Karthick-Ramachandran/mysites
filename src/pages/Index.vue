@@ -3,7 +3,7 @@
     <header class="header">
       <h1 v-html="$page.metaData.siteName" />
       <h2>
-        Coder, Blogger and a
+        Developer, Blogger and a
         <g-link to="/courses" class="linke">New content creator</g-link>
       </h2>
     </header>
